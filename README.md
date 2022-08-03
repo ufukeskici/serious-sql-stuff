@@ -1,2 +1,2 @@
 # serious-sql-stuff
-my notes about serious sql course
+My notes about Serious SQL course of Danny Ma.
